@@ -1,1 +1,1 @@
-web: go run index.js
+web: go run index.go
