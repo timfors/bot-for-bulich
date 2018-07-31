@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/user/bot-for-bulich",
+	"ImportPath": "github.com/user/bot-for-bulich/code",
 	"GoVersion": "go1.10",
 	"GodepVersion": "v80",
 	"Deps": [
