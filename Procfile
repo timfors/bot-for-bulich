@@ -1,1 +1,1 @@
-web: bot-for-bulich
+web: go run index.go
