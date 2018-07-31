@@ -2,7 +2,7 @@ package main
 
 import (
 		"log"
-		"github.com/dimonchik0036/vk-api"
+		"github.com/Dimonchik0036/vk-api"
 		"strings"
 		"strconv"
 	//	"time"
