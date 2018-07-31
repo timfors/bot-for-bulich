@@ -1,1 +1,1 @@
-web: index
+web: go run index.go
